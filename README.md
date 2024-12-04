@@ -4,6 +4,7 @@
 # Galton Data Stimulation
 ## Introduction
 This repository contains the work for a STAT184 assignment focusing on data simulation and tidy data principles.
+
 This project's objective was to comprehend and illustrate how tidy data concepts may be used to efficiently simulate and analyze data. Cleaning, organizing, and analyzing the data in R are the primary objectives and the dataset used is based on Galton's family height research.
 
 ## Implementation 
