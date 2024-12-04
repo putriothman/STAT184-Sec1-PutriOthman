@@ -1,0 +1,13 @@
+This directory contains files related to a statistical project for STAT184. Below is an overview of its contents:
+
+Files and Folders:
+1 file: Galton Data Simulation.R
+
+File Types:
+.R: R script for data analysis and simulation.
+
+Brief Description:
+This R script demonstrates how tidy data principles can be applied to simulate and analyze data based on Galton's family height study. The script includes steps for structuring data into a tidy format, enabling efficient analysis and visualization.
+
+Directory Purpose:
+This directory is intended to store project-specific scripts that emphasize tidy data practices and as a part of the coursework repository for STAT184.
